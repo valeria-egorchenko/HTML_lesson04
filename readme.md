@@ -8,4 +8,4 @@
 
 ## Задание
 * Цель: создать веб-страницу, используя таблицы.
-* <p align="left"><image src="/images/Zadanie.jpg" alt="Zadanie"></p>
+<p align="left"><image src="/images/Zadanie.jpg" alt="Zadanie"></p>
