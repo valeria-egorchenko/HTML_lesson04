@@ -2,7 +2,7 @@
 * Цель: создавать простейшие таблицы, оформлять их, выполнять объединение ячеек, создавать веб-страницы на основе табличного дизайна.
 
 ## Простейшие таблицы 
-<p align="left"><image src="/images/Tablici.jpg" alt="Tablici"></p>
+<p align="left"><image src="/images/Tablici4.jpg" alt="Tablici4"></p>
 
 ***
 
