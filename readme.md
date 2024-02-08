@@ -3,5 +3,5 @@
 
 ## Простейшие таблицы 
 <p align="center">
-<img src="https://github.com/valeria-egorchenko/HTML_lesson04/blob/main/images/Tablica1.jpg width="100%"></p>
+<image src="/images/Tablica1.jpg" alt="Текст с описанием картинки"></p>
 
