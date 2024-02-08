@@ -1,0 +1,15 @@
+.qwe{
+    border-bottom: 4px solid #3d73fa;
+    border-top:2px solid #3d73fa ;
+    border-right:2px solid #3d73fa;
+    border-left:2px solid #3d73fa ;
+}
+.asd{
+    border:2px solid #3d73fa;
+}
+.asd tr td{
+    border:2px solid #3d73fa;
+}
+.p{
+    line-height: 2;
+}
