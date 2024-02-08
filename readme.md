@@ -3,5 +3,6 @@
 
 ## Простейшие таблицы 
 <p align="center">
-<image src="/images/Tablica1.jpg" alt="Текст с описанием картинки"></p>
+<image src="/images/Tablica1.jpg" alt="Tablica1"></p>
+<image src="/images/Tablica2.jpg" alt="Tablica2"></p>
 
