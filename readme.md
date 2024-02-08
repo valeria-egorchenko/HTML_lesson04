@@ -3,5 +3,5 @@
 
 ## Простейшие таблицы 
 <p align="center">
-<img src="images/Tablica1" width="100%"></p>
+<img src="/images/Tablica1" width="100%"></p>
 
