@@ -5,7 +5,6 @@
 <img src="https://github.com/valeria-egorchenko/HTML_lesson04/blob/main/images/Tablici4.jpg" width="70%"></p>
 
 <h2 align="left">Задание</h2>
-* Цель: cоздайте веб-страницу, используя таблицы:
 
 <p align="center" weight="70%">
 <img src="https://github.com/valeria-egorchenko/HTML_lesson04/blob/main/images/Zadanie.jpg" width="70%"></p>
